@@ -1,6 +1,0 @@
-@DeepLens.Api_HostAddress = http://localhost:5160
-
-GET {{DeepLens.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
