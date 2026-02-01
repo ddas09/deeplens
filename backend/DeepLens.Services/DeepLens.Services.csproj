@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DeepLens.Common\DeepLens.Common.csproj" />
+    <ProjectReference Include="..\DeepLens.DAL\DeepLens.DAL.csproj" />
+  </ItemGroup>
+
 </Project>

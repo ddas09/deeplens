@@ -18,6 +18,10 @@
   <ItemGroup>
     <ProjectReference Include="..\DeepLens.DAL\DeepLens.DAL.csproj" />
     <ProjectReference Include="..\DeepLens.Data\DeepLens.Data.csproj" />
+    <ProjectReference Include="..\DeepLens.Services\DeepLens.Services.csproj" />
   </ItemGroup>
 
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
 </Project>
